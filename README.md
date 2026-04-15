@@ -1,5 +1,5 @@
-# FYP1-DRIVEX
-DRIVEX: An AI-Assisted Drivers Vigilance System(SOFTWARE).
+# DRIVEX
+DRIVEX: An AI-Assisted Drivers Vigilance System(FYP1-SOFTWARE).
 
 ## Features
 DRIVEX is a real-time computer vision system designed to detect:
